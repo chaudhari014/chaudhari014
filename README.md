@@ -36,14 +36,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/rahul-chaudhari-52718a273/" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/rahul-chaudhari-52718a273/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vin9012d/" />
     </a>
-    <a href="https://twitter.com/RahulCh51024224" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="" height="30" width="40" /></a>
+    <a href="https://chaudhari014.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://vinod-portfolio09.netlify.app/" />
+    </a>
 </p>
 
 

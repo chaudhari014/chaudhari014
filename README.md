@@ -19,8 +19,6 @@
 
 ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
-<img src="https://static.wixstatic.com/media/191815_5d9d3ff1ad894e96a2f0a86681563555~mv2.gif" width="350px"
-    align="right">
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=chaudhari014&label=Profile%20views&color=0e75b6&style=flat"
